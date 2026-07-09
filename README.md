@@ -1,32 +1,45 @@
-## Olá Dev! Sou o Alan Martins
+<img src="./banner.svg" width="100%" alt="Alan Martins — Desenvolvedor Front-end" />
 
- <div>
-  <a href="[https://github.com/](https://github.com/martinsalan2003)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martinsalan2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsalan2003&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alan-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Alan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" alt="Alan-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img  align="center" alt="Alan-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
- <img align="center" alt="Alan-VITE" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-          
-  
-          
-</div>
+##  Sobre mim
 
-  ##
-  
-  <div>
- <a href="https://discord.gg/Z2vxFnkj" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alanmartinsferreira59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-martins-ferreira-5a8a48233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=11992946537&text=Ola Alan, estava olhando um pouco do seu trabalho no Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
- 
-</div>
+Desenvolvedor front-end focado em performance, clareza e experiência do usuário. Gosto de transformar ideias em interfaces rápidas e bem construídas, sempre buscando evoluir a cada projeto.
+
+Também atuo com ajustes no back-end em aplicações C# e .NET, o que amplia minha visão sobre o funcionamento completo das aplicações.
+
+<br>
+
+##  Stack principal
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,angular,vite&theme=dark" />
+
+**Linguagens**
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,cs&theme=dark" />
+
+**Back-end & Dados**
+
+<img src="https://skillicons.dev/icons?i=nodejs,npm,mysql,dotnet&theme=dark" />
+
+<br>
+
+##  Estatísticas
+
+<p align="center"> <img height="160em" src="https://github-stats-extended.vercel.app/api?username=martinsalan2003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2FB380&icon_color=2FB380&text_color=e6edf3" /> <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=martinsalan2003&layout=compact&hide_border=true&bg_color=0d1117&title_color=2FB380&text_color=e6edf3" /> </p>
+<br>
+
+##  Contato
+
+<a href="mailto:alanmartinsferreira59@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=2FB380" />
+</a>
+<a href="https://www.linkedin.com/in/alan-martins-ferreira-5a8a48233/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=2FB380" />
+</a>
+<a href="https://discord.gg/Z2vxFnkj" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=2FB380" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=11992946537&text=Ola Alan, estava olhando um pouco do seu trabalho no Github" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-0d1117?style=flat-square&logo=whatsapp&logoColor=2FB380" />
+</a>
